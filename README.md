@@ -7,7 +7,8 @@
 Frontend engineer focused on business frontends, H5 SDKs, AI application prototypes, and local-first research tools.
 
 - Portfolio: <https://hackrabbit.cc.cd>
-- Blog: <https://rabbit937.github.io/my-blog>
+- GitHub: <https://github.com/hackrabbit6>
+- Blog: <https://hackrabbit6.github.io/my-blog>
 - Email: <hackrabbit@qq.com>
 
 ---
