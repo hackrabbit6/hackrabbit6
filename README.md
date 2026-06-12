@@ -6,7 +6,7 @@
 
 Frontend engineer focused on business frontends, H5 SDKs, AI application prototypes, and local-first research tools.
 
-- Portfolio: <https://hackrabbit.cc.cd>
+- Portfolio: <https://hackrabbit6.vercel.app>
 - GitHub: <https://github.com/hackrabbit6>
 - Email: <hackrabbit@qq.com>
 
@@ -31,7 +31,7 @@ Frontend engineer focused on business frontends, H5 SDKs, AI application prototy
 | `music` | AI 音乐生成全栈控制台，端到端「提示词 → 歌词 → 音乐 → 封面」管线，作品持久化可回放 | 已发布 | [repo](https://github.com/hackrabbit6/music) |
 | `digital-loved-one` | 记忆陪伴 AI，代码层强制「证据不足就说不知道」的 grounding 约束，Go + RAG + React | 已发布 | [repo](https://github.com/hackrabbit6/digital-loved-one) |
 | `onchain-research` | 本地优先的 EVM/BSC 链上研究 CLI，持有人聚类 + 钱包追踪，输出证据而非归因证明 | 已发布 | [repo](https://github.com/hackrabbit6/onchain-research) |
-| `hackrabbit-portfolio` | 个人求职作品集，展示业务前端、H5 SDK、AI 原型、脱敏案例和联系方式 | 已部署 | [site](https://hackrabbit.cc.cd) |
+| `hackrabbit-portfolio` | 个人求职作品集，展示业务前端、H5 SDK、AI 原型、脱敏案例和联系方式 | 已部署 | [site](https://hackrabbit6.vercel.app) |
 | `ai-workbench` | 全栈 AI 工作台，支持 RAG 风格聊天、引用来源和本地模型流式输出 | 准备公开发布 | — |
 
 ### 我能交付
@@ -74,7 +74,7 @@ I have shipped business frontends across admin systems, H5 game SDKs, payment fl
 | `music` | AI music generation console with an end-to-end prompt → lyrics → music → cover pipeline and a persisted, replayable library | Published | [repo](https://github.com/hackrabbit6/music) |
 | `digital-loved-one` | Memory-companion AI with a code-enforced "say I don't know rather than hallucinate" grounding gate; Go + RAG + React | Published | [repo](https://github.com/hackrabbit6/digital-loved-one) |
 | `onchain-research` | Local-first EVM/BSC research CLI: token holder clustering + wallet tracking, evidence over attribution | Published | [repo](https://github.com/hackrabbit6/onchain-research) |
-| `hackrabbit-portfolio` | Personal portfolio for business frontend work, H5 SDK cases, AI prototypes, and contact info | Deployed | [site](https://hackrabbit.cc.cd) |
+| `hackrabbit-portfolio` | Personal portfolio for business frontend work, H5 SDK cases, AI prototypes, and contact info | Deployed | [site](https://hackrabbit6.vercel.app) |
 | `ai-workbench` | Full-stack AI workspace with RAG-style chat, citations, and local model streaming | Preparing for public release | — |
 
 ### What I Ship
