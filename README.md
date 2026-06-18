@@ -8,7 +8,7 @@ Frontend engineer focused on business frontends, H5 SDKs, AI application prototy
 
 - Portfolio: <https://hackrabbit6.vercel.app>
 - GitHub: <https://github.com/hackrabbit6>
-- Email: <hackrabbit@qq.com>
+- Email: <hackrabbit6@gmail.com>
 
 ---
 
